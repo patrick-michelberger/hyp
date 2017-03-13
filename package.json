@@ -1,0 +1,22 @@
+{
+  "name": "hyp",
+  "version": "1.0.0",
+  "description": "Repository for the HYP course at Politecnico di Milano (Summer 2017) Edit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-michelberger/hyp.git"
+  },
+  "author": "Patrick Michelberger <patrick@michelberger.info> (http://patrick.michelberger.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-michelberger/hyp/issues"
+  },
+  "homepage": "https://github.com/patrick-michelberger/hyp#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  }
+}
