@@ -1,3 +1,5 @@
+////////// Content Dialogue Acts //////////
+
 
 ** Who we are topic **
 
@@ -10,7 +12,6 @@
 -History: some history about the clinic with some photos about it (https://www.columbus3c.com/la-clinica/)
 
 
-
 ** News topic **
 
 -Internal news: all the news about events inside the clinic (new studies, accomplishments, successes) 
@@ -19,11 +20,13 @@
 
 -Health and wellness: some news from the world about health and wellness with comments by the clinic’s doctors.
 
+
 ** Service multiple topics**
 
 -Description: high level description of the service also in medical terms, describing the medical condition and the beneficts acquired from the service.
 
 -Customers' feedback: anonymous feedback about the service from clinic's customers with (with an iconic indicator) a textual comment about the experience and a general satisfaction feedback indicator (e.g. mood, stars and so on)
+
 
 ** Location multiple topics **
 
@@ -36,7 +39,11 @@
 -How to contact it: all the main contact information to enter in contact with the location and seek for more information.
 
 
+////////// Transition Dialogue Acts //////////
 
+-Service == [Where] ==> Location: dialogue act that shows the list of the locations in which the particular service is offered (and can be booked)
+
+-Location == [Available here] == Service: dialogue act that shows the list of services that are offered by a particular location
 
 
 
