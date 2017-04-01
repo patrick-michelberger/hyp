@@ -43,7 +43,7 @@
 
 -Service == [Where] ==> Location: dialogue act that shows the list of the locations in which the particular service is offered (and can be booked)
 
--Location == [Available here] == Service: dialogue act that shows the list of services that are offered by a particular location
+-Location == [Available here] ==> Service: dialogue act that shows the list of services that are offered by a particular location
 
 
 
