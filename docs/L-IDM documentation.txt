@@ -19,5 +19,24 @@
 
 -Health and wellness: some news from the world about health and wellness with comments by the clinic’s doctors.
 
+** Service multiple topics**
+
+-Description: high level description of the service also in medical terms, describing the medical condition and the beneficts acquired from the service.
+
+-Customers' feedback: anonymous feedback about the service from clinic's customers with (with an iconic indicator) a textual comment about the experience and a general satisfaction feedback indicator (e.g. mood, stars and so on)
+
+** Location multiple topics **
+
+-Description: a general description of the location in terms of history and environment.
+
+-Photos: some photos of the location: the environment and the main structures available in the location
+
+-How to reach it: all the main information about how to reach the location (public transportation services and so on) and a map reporting the position of the location.
+
+-How to contact it: all the main contact information to enter in contact with the location and seek for more information.
+
+
+
+
 
 
