@@ -46,4 +46,13 @@
 -Location == [Available here] ==> Service: dialogue act that shows the list of services that are offered by a particular location
 
 
+////////// Introductory Dialogue Acts //////////
+
+-All Locations ==> Location : introductory information about all the locations that are part of the clinic; this introductory dialogue act contains a list of items (for the grouped items) each one described by a “preview” of the group member (name of the location, thumbnail image with the photo of the location)
+
+
+-Services by area ==> Service: introductory information about all the services that are offered in a particular Health Intervention Area with some information about how the particular Health Intervention Area is managed inside the clinic
+
+-Areas ==> Services by area: introductory information about all the Health Intervention Areas that can be used as parameters to filter the services offered by the clinic
+
 
