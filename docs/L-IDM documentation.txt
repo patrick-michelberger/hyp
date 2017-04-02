@@ -27,6 +27,10 @@
 
 -Customers' feedback: anonymous feedback about the service from clinic's customers with (with an iconic indicator) a textual comment about the experience and a general satisfaction feedback indicator (e.g. mood, stars and so on)
 
+-How to book: all the (links to the) information about booking the particular service
+
+-How to retrieve the result: all the (links to the) information about retrieving the results for the specific service (if the service provides some)
+
 
 ** Location multiple topics **
 
