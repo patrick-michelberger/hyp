@@ -28,7 +28,7 @@
 
 - Refunds: TODO
 
-** Practical Info multiple topics**
+** Ways to Give multiple topics**
 
 - Donate Online: TODO
 
@@ -38,31 +38,27 @@
 
 ** Departments multiple topics**
 
-- Paediatrics:
+- Overview:
 
-- Obstetrics & Gynaecology: TODO
+- Offerings: TODO
 
-- IVF & Fertility: TODO
+- Services: TODO
 
-- Surgery: TODO
-
-- Paediatric Development: TODO
-
-- Diagnostics: TODO
+- Doctors: TODO
 
 ** Doctor multiple topics**
 
-- Dr. Yadav: TODO
+- Picture: TODO
 
-- Dr. Arora: TODO
+- Profile: TODO
 
-- Dr. Jardav: TODO
+- Department: TODO
 
-- Dr. Sharma: TODO
+- Services: TODO
 
-- Dr. Khurana:TODO
+- Contact:TODO
 
-- Dr. Gulati: TODO
+- Blog: TODO
 
 ** Service multiple topics**
 
