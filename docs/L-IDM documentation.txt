@@ -14,12 +14,55 @@
 
 ** News topic **
 
--Internal news: all the news about events inside the clinic (new studies, accomplishments, successes) 
+-Internal news: all the news about events inside the clinic (new studies, accomplishments, successes)
 
 -Interviews: all the interviews to doctors that work for the clinic who answer to mainstream questions about health in general.
 
 -Health and wellness: some news from the world about health and wellness with comments by the clinic’s doctors.
 
+** Pay your bill **
+
+- Physician and Other Charges: TODO
+
+- Financial Assistance: TODO
+
+- Refunds: TODO
+
+** Practical Info multiple topics**
+
+- Donate Online: TODO
+
+- Volunteering: TODO
+
+- How Your Gift Helps: TODO
+
+** Departments multiple topics**
+
+- Paediatrics:
+
+- Obstetrics & Gynaecology: TODO
+
+- IVF & Fertility: TODO
+
+- Surgery: TODO
+
+- Paediatric Development: TODO
+
+- Diagnostics: TODO
+
+** Doctor multiple topics**
+
+- Dr. Yadav: TODO
+
+- Dr. Arora: TODO
+
+- Dr. Jardav: TODO
+
+- Dr. Sharma: TODO
+
+- Dr. Khurana:TODO
+
+- Dr. Gulati: TODO
 
 ** Service multiple topics**
 
@@ -49,13 +92,42 @@
 
 -Location == [Available here] ==> Service: dialogue act that shows the list of services that are offered by a particular location
 
+-Service == [Department of the service] ==> Department: TODO
+
+-Service == [Doctors operating in the service] ==> Doctor: TODO
+
+-Service == [Service responsibility by] ==> Doctor: TODO
+
+-Department == [Service in the department] ==> Service: TODO
+
+-Department == [Department responsiblity by] ==> Doctor: TODO
+
+-Doctor == [Doctor's service] ==> Service: TODO
+
+-Doctor == [Service responsible] ==> Service: TODO
 
 ////////// Introductory Dialogue Acts //////////
 
 -All Locations ==> Location : introductory information about all the locations that are part of the clinic; this introductory dialogue act contains a list of items (for the grouped items) each one described by a “preview” of the group member (name of the location, thumbnail image with the photo of the location)
 
--Services by area ==> Service: introductory information about all the services that are offered in a particular Health Intervention Area with some information about how the particular Health Intervention Area is managed inside the clinic
+-Services by department ==> Service: introductory information about all the services that are offered in a particular Health Intervention Department with some information about how the particular Health Intervention Department is managed inside the clinic
 
--Areas ==> Services by area: introductory information about all the Health Intervention Areas that can be used as parameters to filter the services offered by the clinic
+-Departments ==> Services by departments: introductory information about all the Health Intervention Departments that can be used as parameters to filter the services offered by the clinic
 
+- All Locations-Department ==> Department by Location: TODO
 
+- Department by Location ==> Department: TODO
+
+- Alphabetic ordered group ==> Doctor: TODO
+
+- All Locations-Doctors ==> Doctors by location: TODO
+
+- Doctors by location ==> Doctor: TODO
+
+- All Departments-Doctors ==> Doctors by department: TODO
+
+- Doctors by department ==> Doctor: TODO
+
+- All Services-Doctors ==> Doctors by service: TODO
+
+- Doctors by service ==> Doctor: TODO
