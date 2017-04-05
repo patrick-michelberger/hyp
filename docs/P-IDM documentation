@@ -47,5 +47,7 @@ a complete overview of the service to the user.
 The page also contains transition dialogue acts "Doctors operating in the service" and "Service responsibility by" that allow
 the user to get information about the doctor(s) that are directly connected to the service (the page provides links to get additional 
 information about doctors).
+The page also contains transition dialogue act "Department of the service" that allows the user to get information about the department
+to which the service belongs.
 
 
