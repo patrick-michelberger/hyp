@@ -1,8 +1,26 @@
 ////////// Pages description //////////
 
-** Who we are page**
+**Who we are page**
 
 This single page contains al the content dialogue acts that have been defined for the single topic "Who we are"
 The page is intended to provide some instant answer to questions regarding the identity of the clinic.
+
+**Internal views**
+
+This page shows a finite list of last news that are about the clinic only; 
+The user must be able to seek for more news (less recent) inside the page (without changing the page).
+If the news is directly connected to some other information (link or document), the user must be able to reach that piece of information.
+
+**Interviews**
+
+This page shows a finite list of latest interviews of the clinic'c doctors about various topics related to the area of 
+health and healt services.
+The user must be able to seek for more interviews (less recent) inside the page (without changing the page).
+
+**Health and Wellness**
+
+This page shows a finite list latest articles (or references to articles) coming from the area of Health and Health services.
+The user must be able to seek for more articles (less recent) inside the page (without changing the page).
+
 
 
