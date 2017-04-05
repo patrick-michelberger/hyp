@@ -1,26 +1,36 @@
 ////////// Pages description //////////
 
-**Who we are page**
+**[Topic: Who we are]Who we are page**
 
 This single page contains al the content dialogue acts that have been defined for the single topic "Who we are"
 The page is intended to provide some instant answer to questions regarding the identity of the clinic.
 
-**Internal views**
+**[Topic: News]Internal views**
 
 This page shows a finite list of last news that are about the clinic only; 
 The user must be able to seek for more news (less recent) inside the page (without changing the page).
 If the news is directly connected to some other information (link or document), the user must be able to reach that piece of information.
 
-**Interviews**
+**[Topic: News]Interviews**
 
 This page shows a finite list of latest interviews of the clinic'c doctors about various topics related to the area of 
 health and healt services.
 The user must be able to seek for more interviews (less recent) inside the page (without changing the page).
 
-**Health and Wellness**
+**[Topic: News]Health and Wellness**
 
 This page shows a finite list latest articles (or references to articles) coming from the area of Health and Health services.
 The user must be able to seek for more articles (less recent) inside the page (without changing the page).
 
+**[KO Topic: Location] Description**
 
+This the page contains most of the information about a location: a bried description of the building and its history with some 
+recent information about latest technologies and improvements that have been intoduced.
+This page contains multiple content dialogues acts that are meant to inform the user about how to contact the location and how to
+book a service offered by the location.
+This page also contains a transition act that allows the user to be informed about the services that are offered in the particular locaiton.
 
+**[KO Topic: Location] Photos**
+
+This page contains a list (or grid) of photos about different environments inside the location with some little textual information
+associated to each photo
