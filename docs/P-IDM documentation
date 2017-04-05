@@ -27,7 +27,7 @@ The user must be able to seek for more articles (less recent) inside the page (w
 This the page contains most of the information about a location: a bried description of the building and its history with some 
 recent information about latest technologies and improvements that have been intoduced.
 This page contains multiple content dialogues acts that are meant to inform the user about how to reach the location and how to
-book a service offered by the location.
+book a service offered by the location (transition dialogue act "available here")
 This page also contains a transition act that allows the user to be informed about the services that are offered in the particular locaiton.
 
 **[KO Topic: Location] Photos**
