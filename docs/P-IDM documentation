@@ -39,3 +39,13 @@ associated to each photo
 
 This page is an introductory page to the group "All locations" that provides some information about all the locations that
 are part of the clinic.
+
+**[KO Topic: Service] Description**
+
+This page contains several content dialogue acts (all those defined in the L-IDM schema for the "Service" kind of topic) that provide
+a complete overview of the service to the user.
+The page also contains transition dialogue acts "Doctors operating in the service" and "Service responsibility by" that allow
+the user to get information about the doctor(s) that are directly connected to the service (the page provides links to get additional 
+information about doctors).
+
+
