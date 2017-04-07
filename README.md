@@ -4,7 +4,7 @@ Repository for the HYP course at Politecnico di Milano (Summer 2017)
 ## Build Docker image 
 Go to the directory that has your Dockerfile and run the following command to build the Docker image. The -t flag lets you tag your image so it's easier to find later using the docker images command:
 
-`$ docker build -t <your username>/hyp .`
+`$ docker build -t <your username>/hyp ./src`
 
 Your image will now be listed by Docker:
 
